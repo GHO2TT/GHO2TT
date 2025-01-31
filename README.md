@@ -9,3 +9,44 @@
 GHO2TT/GHO2TT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+# Hi, I'm [IYKE] 👋  
+
+💻 Software Developer | 🚀 Passionate about Web and Software Development  
+🎓 Studying Computer Science | Learning React Native & Node.js  
+🔗 [Portfolio](--) | [LinkedIn](linkedin.com/in/david-onyekachi-37b928244)  
+
+---
+
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
+
+---
+
+## 🌎 Connect with Me:
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+
+---
+
+## 🛠️ Skills:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+---
+
+## ✨ Random Dev Quote:
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+
+---
+
+
+  git add README.md
+  git commit -m "Updated GitHub profile with sections"
+  git push origin main
