@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # Hi, I'm IYKE 👋  
 
 💻 Software Developer | 🚀 Passionate about Web, Software Development and CyberSecurity 
-🎓 Studying Computer Science | Learning React Native & Node.js  
+🎓 Studied Computer Science | Learning React Native & Node.js  
 ⚡ I am a self thought Software developer skilled in HTML, CSS, JS and React
 🔗 [Email] ndavidabjc@gmail.com and donyekachi334@gmail.com | [LinkedIn](linkedin.com/in/david-onyekachi-37b928244)  
 
