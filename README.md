@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 💻 Software Developer | 🚀 Passionate about Web, Software Development and CyberSecurity 
 🎓 Studied Computer Science | Learning React Native & Node.js  
 ⚡ I am a self thought Software developer skilled in HTML, CSS, JS and React
-🔗 [Email] ndavidabjc@gmail.com and donyekachi334@gmail.com | [LinkedIn](linkedin.com/in/david-onyekachi-37b928244)  
+🔗 ndavidabjc@gmail.com and donyekachi334@gmail.com | [LinkedIn](linkedin.com/in/david-onyekachi-37b928244)  
 
 ---
 
