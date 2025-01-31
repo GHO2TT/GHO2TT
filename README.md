@@ -24,10 +24,9 @@ You can click the Preview link to take a look at your changes.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  -->
 
----
 
 ## 🌎 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/.gho2t)  
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) Username: .gho2t  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/david-onyekachi-37b928244)  
 
 
@@ -42,8 +41,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![Dev Quote](“Programming isn’t about what you know; it’s about what you can figure out.”
-— Chris Pine)
+<!-- ![Dev Quote](“Programming isn’t about what you know; it’s about what you can figure out.”
+— Chris Pine) -->
+## 📝 Random Dev Quote  
+![Quote](https://img.shields.io/badge/%E2%80%9CProgramming%20isn’t%20about%20what%20you%20know;%20it’s%20about%20what%20you%20can%20figure%20out.%E2%80%9D-Chris%20Pine-blue?style=flat-square)
+
 
 <!--## ✨ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  -->
