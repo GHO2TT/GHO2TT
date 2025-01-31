@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @IYKE
+<!--- - 👋 Hi, I’m @IYKE
 - 🪐 I’m interested in Software development and CyberSecurity 
 - 🌱 I’m currently learning React Native and Node.js
 - 📫 You can reach out to me through my emails: ndavidabjc@gmail.com and donyekachi334@gmail.com
 - ⚡ I am a self thought Software developer skilled in HTML, CSS, JS and React
-- 👨‍💻 Also learning Ethical Hacking and penetration testing
+- 👨‍💻 Also learning Ethical Hacking and penetration testing --->
 
 <!---
 GHO2TT/GHO2TT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-# Hi, I'm [IYKE] 👋  
+# Hi, I'm IYKE 👋  
 
 💻 Software Developer | 🚀 Passionate about Web and Software Development  
 🎓 Studying Computer Science | Learning React Native & Node.js  
-🔗 [Portfolio](--) | [LinkedIn](linkedin.com/in/david-onyekachi-37b928244)  
+🔗 [Email] ndavidabjc@gmail.com and donyekachi334@gmail.com | [LinkedIn](linkedin.com/in/david-onyekachi-37b928244)  
 
 ---
 
@@ -26,9 +26,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌎 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)].gho2t  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/david-onyekachi-37b928244)  
+
 
 ---
 
@@ -41,12 +41,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## ✨ Random Dev Quote:
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+<!--## ✨ Random Dev Quote:
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  -->
 
 ---
 
-
-  git add README.md
-  git commit -m "Updated GitHub profile with sections"
-  git push origin main
