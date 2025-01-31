@@ -28,6 +28,9 @@ You can click the Preview link to take a look at your changes.
 ## 🌎 Connect with Me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) Username: .gho2t  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/david-onyekachi-37b928244)  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:donyekachi334@gmail.com) 1
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ndavidabjc@gmail.com) 2
+
 
 
 ---
