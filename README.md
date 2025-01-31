@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🌎 Connect with Me:
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) Username: .gho2t  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/) Username: .gho2t  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/david-onyekachi-37b928244)  
 
 
