@@ -13,15 +13,16 @@ You can click the Preview link to take a look at your changes.
 
 # Hi, I'm IYKE 👋  
 
-💻 Software Developer | 🚀 Passionate about Web and Software Development  
+💻 Software Developer | 🚀 Passionate about Web, Software Development and CyberSecurity 
 🎓 Studying Computer Science | Learning React Native & Node.js  
+⚡ I am a self thought Software developer skilled in HTML, CSS, JS and React
 🔗 [Email] ndavidabjc@gmail.com and donyekachi334@gmail.com | [LinkedIn](linkedin.com/in/david-onyekachi-37b928244)  
 
 ---
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  -->
 
 ---
 
@@ -41,8 +42,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+![Dev Quote]“Programming isn’t about what you know; it’s about what you can figure out.”
+— Chris Pine
+
 <!--## ✨ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  -->
 
----
 
