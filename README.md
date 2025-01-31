@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌎 Connect with Me:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)].gho2t  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/.gho2t)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/david-onyekachi-37b928244)  
 
 
@@ -42,8 +42,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![Dev Quote]“Programming isn’t about what you know; it’s about what you can figure out.”
-— Chris Pine
+![Dev Quote](“Programming isn’t about what you know; it’s about what you can figure out.”
+— Chris Pine)
 
 <!--## ✨ Random Dev Quote:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  -->
