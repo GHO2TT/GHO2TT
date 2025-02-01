@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
- ## 📊 GitHub Stats:
+ <!-- ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark) -->  
 
 ---
 
